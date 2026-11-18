@@ -1,0 +1,217 @@
+{
+ "ahead": 14,
+ "shop": {
+  "note": "",
+  "phone2": "",
+  "email": "",
+  "vk": "",
+  "tg": "",
+  "name": "Monarch Detail",
+  "address": "улица Пугачёва, 55/2, Улан-Удэ",
+  "phone": "+7 (924) 557-57-42",
+  "hours": [
+   [
+    "Ежедневно",
+    "11:00–19:00"
+   ]
+  ]
+ },
+ "levels": [
+  "Любой автомобиль"
+ ],
+ "services": [
+  {
+   "name": "Тонирование боковых стёкол без разбора",
+   "group": "Тонировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 900,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Тонирование задних боковых стёкол",
+   "group": "Тонировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 900,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Тонирование заднего стекла",
+   "group": "Тонировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1800,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Тонирование лобового стекла",
+   "group": "Тонировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 2200,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Солнцезащитная полоса на лобовое стекло",
+   "group": "Тонировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 850,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Ремонт сколов",
+   "group": "Ремонт стёкол",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Остановка трещин",
+   "group": "Ремонт стёкол",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 350,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Полировка кузова и керамика",
+   "group": "Детейлинг",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 13000,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Предпродажная подготовка",
+   "group": "Детейлинг",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 10000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Полировка оптики",
+   "group": "Детейлинг",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1200,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Химчистка салона",
+   "group": "Детейлинг",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 5000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Мойка кузова",
+   "group": "Мойка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 800,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Комплексная мойка",
+   "group": "Мойка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1500,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Уборка багажника",
+   "group": "Мойка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null
+    }
+   }
+  }
+ ],
+ "masters": [
+  {
+   "id": "m1",
+   "name": "Приём заявок",
+   "level": "Любой автомобиль",
+   "exp": "",
+   "hours": {
+    "Пн": "11:00-19:00",
+    "Вт": "11:00-19:00",
+    "Ср": "11:00-19:00",
+    "Чт": "11:00-19:00",
+    "Пт": "11:00-19:00",
+    "Сб": "11:00-19:00",
+    "Вс": "11:00-19:00"
+   }
+  }
+ ]
+}
